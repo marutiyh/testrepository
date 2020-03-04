@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110629" started-at="2020-03-04T18:03:19 IST" finished-at="2020-03-04T18:05:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110629" started-at="2020-03-04T18:03:19 IST" finished-at="2020-03-04T18:05:10 IST">
+      <class name="mavenframework.zestmoney.TestClass">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:mavenframework.zestmoney.TestClass@68bbe345]" name="preCondition" is-config="true" duration-ms="20568" started-at="2020-03-04T18:03:19 IST" finished-at="2020-03-04T18:03:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mavenframework.zestmoney.TestClass@68bbe345]" name="afterMethod" duration-ms="1214" started-at="2020-03-04T18:03:40 IST" finished-at="2020-03-04T18:03:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:mavenframework.zestmoney.TestClass@68bbe345]" name="preCondition" is-config="true" duration-ms="12512" started-at="2020-03-04T18:03:41 IST" finished-at="2020-03-04T18:03:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="test()[pri:0, instance:mavenframework.zestmoney.TestClass@68bbe345]" name="test" duration-ms="76096" started-at="2020-03-04T18:03:54 IST" finished-at="2020-03-04T18:05:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- mavenframework.zestmoney.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
